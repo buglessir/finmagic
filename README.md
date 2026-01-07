@@ -46,6 +46,18 @@ A TypeScript library for essential financial, technical, and statistical calcula
 npm install finmagic
 ```
 
+## Test
+
+```bash
+npm run tests
+```
+
+## Build
+
+```bash
+npm run build
+```
+
 ## Usage
 ```javascript
 import { SMA, PV, Sharpe } from 'finmagic';
